@@ -17,14 +17,3 @@ body {
     color: rgb(13, 29, 251);
 
 }
-#him{
-    position: absolute;
-    right:0 ;
-}
-#pepper{
-    position: absolute;
-    left:0 ;
-}
-.me{
-    font-size: 42px;
-}
